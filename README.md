@@ -29,7 +29,7 @@ root/
 │   ├── patching.py
 │   ├── architecture_and_training.py
 │   └── inference.py
-├── data/                   # Sample raw tiff files, normalized data, patched data, and input, ground_truth, output data.
+├── data/                   # Sample raw tiff files
 ├── notebooks/              # Jupyter notebooks with example workflows
 ├── requirements.txt        # Python dependencies
 ├── .gitignore              # Files and directories to exclude from Git
