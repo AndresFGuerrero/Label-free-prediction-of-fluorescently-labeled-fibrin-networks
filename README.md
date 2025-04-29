@@ -1,0 +1,2 @@
+# Label-free-prediction-of-fluorescently-labeled-fibrin-networks
+A deep learning framework to predict fluorescently labeled fibrin fibers. The model leverages a fully convolutional image-to-image mapping trained on stacks of reflection microscopy acquired at three laser wavelengths and a transmission channel. This enables the 3D reconstruction of fibrous networks without the need for fluorescent staining.
